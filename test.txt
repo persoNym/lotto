@@ -1,0 +1,36 @@
+run:
+Hi! Welcome to...
+Connecticut's Crazy Cash 5 Lotto!
+---------------------------------
+Press GO to begin
+Please insert $1:$0
+Incorrect monetary ammount:  0
+Please insert $1:$1
+Enter a number: 16
+Enter a number: 32
+Enter a number: 24
+Enter a number: 8
+Enter a number: 19
+Your Cash 5 Lotto number is: 
+8
+Your Cash 5 Lotto number is: 
+16
+Your Cash 5 Lotto number is: 
+19
+Your Cash 5 Lotto number is: 
+24
+Your Cash 5 Lotto number is: 
+32
+The winning number is: 
+9
+The winning number is: 
+21
+The winning number is: 
+21
+The winning number is: 
+25
+The winning number is: 
+32
+You have only one match. You do not win a cash prize.
+Thank you for playing CONNECTICUT'S CRAZY CASH 5 LOTTO! Feel free to play again.
+BUILD SUCCESSFUL (total time: 16 seconds)
